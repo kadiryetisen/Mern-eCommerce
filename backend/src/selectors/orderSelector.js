@@ -3,6 +3,7 @@ const createNewAddress = async (address, user) => {
     name: address.name,
     surname: address.surname,
     addressName: address.addressName,
+    address: address.address,
     country: address.country,
     city: address.city,
     district: address.district,
