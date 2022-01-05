@@ -1,0 +1,25 @@
+.header-item {
+	text-decoration: none;
+	padding: 5px;
+	font-size: 20px;
+	font-weight: 900;
+}
+a:-webkit-any-link {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+
+.cookie-icon {
+	font-size: 56px;
+	color: #e6cea0;
+}
+.cookie-button {
+	font-size: 24px;
+	background-color: #e6cea0;
+	font-weight: bold;
+}
+
+.header-brand {
+	padding-top: 5px;
+}
